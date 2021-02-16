@@ -1,7 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+
+- 🇧🇾 I live in Minsk, Belarus.
+- 🐍 I'm a Software developer. Writings on Python, sometime Vue.
+
+## My contacts
+[![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-vaitsiakhovitch-270610156/)
+
+[![email](https://img.shields.io/badge/mail%20-black?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulo110895@gmail.com)
 
 <!--
-**paulo20223/paulo20223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**uburuntu/uburuntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
