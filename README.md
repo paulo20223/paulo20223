@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🇧🇾 I live in Minsk, Belarus.
-- 🐍 I'm a Software developer. Writing on Python, sometime Vue.
+- 🇧🇾  &nbsp;  I live in Minsk, Belarus.
+- 🐍  &nbsp;  I'm a Software developer. Writing on Python, sometime Vue.
 
 ## My contacts
 [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavel-vaitsiakhovitch-270610156/)
